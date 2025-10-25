@@ -1,6 +1,8 @@
-# 👋 Hi there, I’m **@roclee** | 你好，我是 **@roclee**
+# 👋 Hi there, I’m **@Raelon** | 你好，我是 **@Raelon**
 
-🎧 I love reading and listening to music — stories and melodies inspire me to create.  
+🎧 I love reading and listening to music — stories and melodies inspire me to create.
+
+  
 📖 我喜欢阅读和听音乐——文字与旋律总能激发我的灵感。  
 
 💻 Currently learning **Python** & **C++**, focusing on algorithms and artificial intelligence.  
